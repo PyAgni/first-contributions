@@ -6858,3 +6858,4 @@ Hassan Khalailla
 - [Jordan Ellison](https://github.com/jordanES96)
 - [Kudakwashe Siziva](https://github.com/kaysiz)
 - [Pratik Singh Chauhan](https://github.com/pratiksinghchauhan)
+- [Agni Bhattacharyya](https://github.com/PyAgni)
